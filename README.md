@@ -4,7 +4,6 @@
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/kartikye-saini  
 Email: kartikyesaini@gmail.com
 
 
