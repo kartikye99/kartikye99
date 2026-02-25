@@ -1,5 +1,11 @@
-# KARTIKYE SAINI:
-🔭 I’m currently working on<br>• Data Structures & Algorithms (C++)<br>• Backend development (Node.js, PHP basics)<br>• Building small projects to strengthen logic<br><br>👯 I’m looking to collaborate on<br>• Beginner-friendly open-source projects<br>• Backend or API-based projects<br>• DSA practice and problem solving<br><br>🤝 I’m looking for help with<br>• Backend system design basics<br>• Optimizing DSA solutions<br>• Real-world project guidance<br><br>🌱 I’m currently learning<br>• Backend Development<br>• Databases (MySQL)<br>• JavaScript & APIs<br><br>💬 Ask me about<br>• C++ basics & DSA<br>• LeetCode problem solving<br>• Computer Science fundamentals<br><br>⚡ Fun fact<br>• I enjoy solving coding problems more at night 🌙<br>
+# KARTIKYE SAINI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=068FF7&width=435&lines=Software+Developer+;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
+---
+
+## 📫 Contact
+
+LinkedIn: linkedin.com/in/kartikye-saini  
+Email: kartikyesaini@gmail.com
 
 
 ## 🌐 Socials:
