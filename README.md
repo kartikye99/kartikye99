@@ -173,16 +173,26 @@ Consistently solving algorithmic problems and strengthening problem-solving skil
 
 ---
 
-# 📈 Coding Activity
+# 💻 Coding Profiles
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikye99&theme=tokyonight"/>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+## 💻 LeetCode
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kartikye_99?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 # 🔥 Fun Facts
 
 ```yaml
