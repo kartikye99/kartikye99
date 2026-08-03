@@ -1,7 +1,3 @@
-# KARTIKYE SAINI
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=068FF7&width=435&lines=Software+Developer+;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
----
-markdown
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>
 
 <div align="center">
